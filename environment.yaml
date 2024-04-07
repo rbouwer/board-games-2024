@@ -1,0 +1,18 @@
+name: board-games-2024
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+    - python=3.11.*
+    - pip
+    - ipykernel
+    - nb_conda_kernels
+    - otter-grader=5.2.2
+    - altair=5.1.2
+    - vl-convert-python
+    - vegafusion
+    - vegafusion-python-embed
+    - vegafusion-jupyter
+    - vega_datasets
+    - scipy
+    - matplotlib
